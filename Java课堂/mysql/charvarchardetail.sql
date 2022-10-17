@@ -1,0 +1,13 @@
+#char vachar detail
+CREATE TABLE t10(
+	‘name‘ CHAR(4)
+);
+CREATE TABLE t11(
+	‘name‘ VARCHAR(5)
+);
+
+INSERT INTO t10 VALUES('asdf');
+INSERT INTO t10 VALUES('华纳各位');
+SELECT * FROM t10;
+INSERT INTO t11 VALUES('hhhhh');
+SELECT * FROM t11;

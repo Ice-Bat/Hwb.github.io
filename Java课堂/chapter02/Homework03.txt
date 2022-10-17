@@ -1,0 +1,4 @@
+JDK，JRE，JVM的关系：
+
+JDK=JRE+开发和工具集
+JRE=JVM+Java SE标准类库

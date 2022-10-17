@@ -1,0 +1,16 @@
+SELECT * FROM emp
+	ORDER BY empno 
+	LIMIT 0,3;
+SELECT * FROM emp
+	ORDER BY empno 
+	LIMIT 3,3;
+SELECT * FROM emp
+	ORDER BY empno 
+	LIMIT 6,3;
+SELECT * FROM emp
+	ORDER BY empno DESC
+	LIMIT 10,5;
+SELECT * FROM emp
+	ORDER BY empno DESC
+	LIMIT 20,5;
+	
